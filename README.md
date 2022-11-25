@@ -5,7 +5,7 @@
 ## Results
 We present two summary graphics: 
 - a summary table of the data grouped by city type: ![](https://raw.githubusercontent.com/SecretDoves3000/PyBer_Analysis/main/Resources/Pyber_summary_dataframe.png)
-- a line graph of total fare by city type over the first four months of 2019: ![] (https://raw.githubusercontent.com/SecretDoves3000/PyBer_Analysis/main/analysis/PyBer_fare_summary.png)
+- a line graph of total fare by city type over the first four months of 2019: ![](https://raw.githubusercontent.com/SecretDoves3000/PyBer_Analysis/main/analysis/PyBer_fare_summary.png)
 
 From our summary table, we can see that, unsurprisingly, urban enviroments have a higher total fare than suburban areas, and suburban areas have higher total fares than rural. The average fares, however, actually follow the reverse order, with rural having the highest average fare both per ride and per driver, followed by suburban and then urban far below. 
 
